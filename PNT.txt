@@ -1,0 +1,19 @@
+Título de la Aplicación: FilmFinder
+Descripción: FilmFinder es una aplicación móvil que funciona como una biblioteca de películas, permitiendo
+a los usuarios registrados explorar y descubrir películas populares, ver tendencias, comentar y puntuar las películas.
+La aplicación proporciona una experiencia interactiva y social para los amantes del cine.
+
+Características principales:
+
+ 1.Registro de usuarios:
+Los usuarios pueden crear una cuenta personalizada en FilmFinder  proporcionando su nombre, dirección de correo electrónico y una contraseña segura.
+También pueden optar por registrarse a través de sus cuentas de redes sociales como Facebook o Google.
+
+ 2.Exploración de películas:
+Los usuarios pueden navegar por una amplia variedad de películas disponibles en la biblioteca.
+Pueden buscar películas por título, género, año de lanzamiento o palabras clave.
+Se muestran detalles de la película, como el título, la sinopsis, el reparto y el director.
+
+ 3. Comentarios y puntuaciones:
+Los usuarios pueden comentar y discutir películas. Pueden expresar sus opiniones, compartir recomendaciones y debatir sobre aspectos de las películas.
+Pueden calificar las películas utilizando una escala de puntuación de 1 a 5 estrellas.
